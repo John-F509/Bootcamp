@@ -1,0 +1,8 @@
+body {
+    background-image: url('SVE-removebg-preview.png');
+    background-size: cover;
+    /* Ajustar imagen al tamaño del contenedor */
+    background-repeat: no-repeat;
+    /* Evitar que se repita la imagen */
+    background-attachment: fixed;
+}
